@@ -1,8 +1,4 @@
-Using the TDD techniques we've learned today...
-
-# Let's All Build A Shopping Basket
-
-We need to find the total cost of the items contained in a shopping basket. :money_with_wings:
+# Shopping Basket
 
 - Items should have a name, price and boolean value that determines whether or not they are eligible for a buy one get one free discount.  
 - A shopping basket can have multiple items.  
